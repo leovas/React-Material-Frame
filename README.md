@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This is an ejemple of React with Material library. It's a frame of interface responsible, useful for to start a new project non from ).
+This is an ejemple of React with Material library. It's a frame of interface responsible, useful to start a new project non from 0.
 
 ## Available Scripts
 
